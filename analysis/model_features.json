@@ -1,0 +1,10 @@
+{
+  "features": [
+    "sin_month",
+    "cos_month",
+    "dryness"
+  ],
+  "target": "natural logarithm of 95% Brownian-bridge home-range area",
+  "seed": 20261122,
+  "warning": "Contemporaneous prediction, not an early-warning or five-stage classifier. Full-data model; performance must come from held-out predictions."
+}

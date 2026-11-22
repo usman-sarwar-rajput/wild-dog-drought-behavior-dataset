@@ -1,0 +1,12 @@
+{
+  "original_creators": "West, Rafiq, Converse, Wilson, Jordan, Golabek, McNutt and Abrahms",
+  "original_dataset_doi": "10.5061/dryad.k98sf7mgm",
+  "related_paper_doi": "10.1111/1365-2656.14192",
+  "source_url": "https://github.com/Abrahms-Lab/CarnivoreSpaceUse-Droughts",
+  "source_commit": "4ad426c48d557393cdb60f4baa3fd0c4850f7a05",
+  "original_input_sha256": "5524bff8135f864a0593a15f4b7995f543c2fe20d2447a35885d7842ded3e570",
+  "included_input_sha256": "058eb8ccbe84a30ad74d68e8596d77cbda262c404306c5d04da8e11beaa9a4a9",
+  "transformation": "Filter to species and BB95, then average social-group/month rows.",
+  "license": "MIT",
+  "prepared_date": "2026-11-22"
+}

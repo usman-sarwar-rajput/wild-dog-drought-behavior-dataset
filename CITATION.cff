@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Cite the original dataset and paper in README.md, and identify this repository commit as the secondary processing version."
+title: "African Wild Dog: drought behavior secondary-analysis dataset"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-22
+authors:
+  - name: "usman-sarwar-rajput (repository compilation and maintenance)"
+repository-code: "https://github.com/usman-sarwar-rajput/wild-dog-drought-behavior-dataset"
+license: [MIT]
+references:
+  - type: data
+    title: "Original source dataset; full investigator attribution in README.md"
+    doi: "10.5061/dryad.k98sf7mgm"
+  - type: article
+    title: "Original study; full reference in the accompanying manuscript"
+    doi: "10.1111/1365-2656.14192"
